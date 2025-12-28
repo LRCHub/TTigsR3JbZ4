@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "神様のダンス",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-28T10:41:01.468345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "神様のダンス",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_神様のダンス_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "神様のダンス",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_神様のダンス_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神様のダンス (Dance of You)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_神様のダンス_(Dance_of_You)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神様のダンス - Dance of You",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_神様のダンス_-_Dance_of_You_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "神様のダンス",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_神様のダンス_ヨルシカ.txt"
+    }
+  ]
+}
